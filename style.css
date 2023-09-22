@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(250, 250, 250);
+    margin: 20px 5px 50px 5px
+}
+form{
+    background-color: rgb(219, 241, 222);
+    width: 600px;
+    height: 290px;
+    border: 0.5px solid rgb(0, 0, 0);
+    padding: 20px 20px 20px 20px;
+}
